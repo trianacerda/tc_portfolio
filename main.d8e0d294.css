@@ -297,13 +297,13 @@ img {
 }
 .img-brewlette {
   display: block;
-  margin: auto;
-  max-width: 90%;
+  margin-block-start: auto;
+  width: 90%;
   height: auto;
 }
 .img-responsive {
   display: block;
-  margin: auto;
+  margin-top: auto;
   max-width: 70%;
   height: auto;
 }
