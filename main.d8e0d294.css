@@ -301,6 +301,14 @@ img {
   width: 90%;
   height: auto;
 }
+
+.img-responsive-about {
+  display: block;
+  margin-block-start: auto;
+  width: 90%;
+  height: auto;
+}
+
 .img-responsive {
   display: block;
   margin-top: auto;
